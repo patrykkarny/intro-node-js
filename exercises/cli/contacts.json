@@ -3,5 +3,20 @@
     "firstName": "adfsadf",
     "lastName": "asfdasdf",
     "phoneNumber": "asfdsf"
+  },
+  "Patryk Karny": {
+    "firstName": "Patryk",
+    "lastName": "Karny",
+    "phoneNumber": "123"
+  },
+  "Jan Kowalski": {
+    "firstName": "Jan",
+    "lastName": "Kowalski",
+    "phoneNumber": "34"
+  },
+  "Kamil Kowalski": {
+    "firstName": "Kamil",
+    "lastName": "Kowalski",
+    "phoneNumber": "456"
   }
 }
